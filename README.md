@@ -12,16 +12,10 @@ It is better to first create a virtual envirnoment using conda.
 conda create -n tortoise python=3.9
 ```
 
-To install all dependencies:
+To install all dependencies, go inside the tortoise folder and do
 
 ```shell
-pip install -r requirements.txt
-```
-
-After that, go inside the tortoise folder and do
-
-```shell
-pip install .
+pip install -r requirements.txt && pip install .
 ```
 
 
@@ -35,8 +29,14 @@ python tortoise/do_tts.py --text "I'm going to speak this" --voice random --cand
 
 
 ```shell
- python tortoise/read.py --textfile text.txt --voice random --candidates 3 --preset high_quality --seed 101
+python tortoise/read.py --textfile text.txt --voice random --candidates 3 --preset high_quality --seed 101
 
+```
+
+### Gernate from the second GPU
+
+```shell
+CUDA_VISIBLE_DEVICES=1 python tortoise/do_tts.py --text="whatever prompt 2" --voice="random"
 ```
 
 This will break up the textfile into sentences, and then convert them to speech one at a time. It will output a series
