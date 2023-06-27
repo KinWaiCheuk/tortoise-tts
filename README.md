@@ -58,7 +58,7 @@ I have fixed the slowness by installing older packages.
 The audio generation is much faster with a G P U now.
 ```
 
-### Intel i9-13900 + RTX4070
+### Intel i9-13900 + RTX 4070
 __0:54__ for "Generating autoregressive samples..."
 
 __0:03__ for "Computing best candidates using CLVP"
@@ -68,3 +68,25 @@ __0:55__ for the first "Transforming autoregressive outputs into audio.."
 __0:41__ for the second "Transforming autoregressive outputs into audio.."
 
 __0:35__ for the third "Transforming autoregressive outputs into audio.."
+
+### Intel i7-12700KF + RTX 3080 Ti
+__0:49__ for "Generating autoregressive samples..."
+
+__0:03__ for "Computing best candidates using CLVP"
+
+__0:44__ for the first "Transforming autoregressive outputs into audio.."
+
+__0:33__ for the second "Transforming autoregressive outputs into audio.."
+
+__0:29__ for the third "Transforming autoregressive outputs into audio.."
+
+### AMD Ryzen Threadripper 3970XF + RTX Titan XP
+__???__ for "Generating autoregressive samples..."
+
+__???__ for "Computing best candidates using CLVP"
+
+__???__ for the first "Transforming autoregressive outputs into audio.."
+
+__???__ for the second "Transforming autoregressive outputs into audio.."
+
+__???__ for the third "Transforming autoregressive outputs into audio.."
