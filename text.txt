@@ -1,0 +1,5 @@
+Hello everyone. This is a test file.
+
+I have fixed the slowness by installing older packages.
+
+The audio generation is much faster with a G P U now.
