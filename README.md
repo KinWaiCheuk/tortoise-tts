@@ -81,12 +81,12 @@ __0:33__ for the second "Transforming autoregressive outputs into audio.."
 __0:29__ for the third "Transforming autoregressive outputs into audio.."
 
 ### AMD Ryzen Threadripper 3970XF + RTX Titan XP
-__???__ for "Generating autoregressive samples..."
+__1:40__ for "Generating autoregressive samples..."
 
-__???__ for "Computing best candidates using CLVP"
+__0:09__ for "Computing best candidates using CLVP"
 
-__???__ for the first "Transforming autoregressive outputs into audio.."
+__1:23__ for the first "Transforming autoregressive outputs into audio.."
 
-__???__ for the second "Transforming autoregressive outputs into audio.."
+__1:43__ for the second "Transforming autoregressive outputs into audio.."
 
-__???__ for the third "Transforming autoregressive outputs into audio.."
+__0:54__ for the third "Transforming autoregressive outputs into audio.."
