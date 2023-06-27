@@ -63,4 +63,8 @@ __0:54__ for "Generating autoregressive samples..."
 
 __0:03__ for "Computing best candidates using CLVP"
 
-__0:55__ for "Transforming autoregressive outputs into audio.."
+__0:55__ for the first "Transforming autoregressive outputs into audio.."
+
+__0:41__ for the second "Transforming autoregressive outputs into audio.."
+
+__0:35__ for the third "Transforming autoregressive outputs into audio.."
