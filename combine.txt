@@ -1,0 +1,8 @@
+The R S X processor is connected to the motherboard via a ball grid array, also known as B G A. |
+When the processor heats up and expands, it introduces thermal stress to the ball grid array. |
+Led free soldering is more fragile than the traditional one, and therefore cracks easily form over time. |
+This causes the connection issue between the R S X processor and the motherboard |
+When you heat up the processor with a high enough temperature, you melth the solder joints which restores the connection temporarily. |
+But the connection is not a solid one. Sooner or later, it will break again. |
+If the problem is in the B G A, you can solve it by reballing the R S X processor. |
+But if the problem is in the underfill, there is not much you can do.

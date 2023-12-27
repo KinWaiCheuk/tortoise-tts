@@ -30,8 +30,10 @@ python tortoise/do_tts.py --text "I'm going to speak this" --voice random --cand
 
 ```shell
 python tortoise/read.py --textfile text.txt --voice random --candidates 3 --preset high_quality --seed 101
-
 ```
+
+- `--output_path`: Where to store outputs.', default='results/longform/ 
+- using the `|` symbol in the text file will split the output. Check `combine.txt` for more details.
 
 ### Gernate from the second GPU
 
